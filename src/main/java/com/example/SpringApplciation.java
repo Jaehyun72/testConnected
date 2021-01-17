@@ -1,2 +1,4 @@
-package com.example;public class SpringApplciation {
+package com.example;
+
+public class SpringApplciation {
 }
